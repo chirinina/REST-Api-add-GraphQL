@@ -5,9 +5,7 @@
 ## Gestión del Ciclo de Vida con Git & GitHub  
 ## Comparativa Técnica: REST vs GraphQL
 
-## 👤 Autor
-Efrain Chiri  
-Proyecto académico – Arquitectura de Software  
+
 ```
 ## 📌 Descripción del Proyecto
 
